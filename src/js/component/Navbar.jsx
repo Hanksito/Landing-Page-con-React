@@ -4,7 +4,7 @@ const Navbar  = (props) => {
     return(
 
 
-      <nav class="navbar navbar-dark navbar-expand-lg bg-dark ps-5">
+      <nav class="navbar navbar-dark bg-dark">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">{props.title}</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

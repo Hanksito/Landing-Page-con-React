@@ -19,8 +19,7 @@ ReactDOM.render(
 		btn1Label="Home"
 		btn2Label="About"
         btn3Label="Contact"
-        btn4Label
-        ="Services"
+        btn4Label="Services"
 	/>,
 	document.querySelector("#app")
 );
