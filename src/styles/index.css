@@ -13,3 +13,8 @@
 #app{
     padding: 0px;
 }
+#foot{
+    position: relative;
+    transform: translateY(125px);
+
+}

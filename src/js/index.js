@@ -32,7 +32,7 @@ ReactDOM.render(
 	/>,
 	document.querySelector("#jumb")
 );
-let content =[<Card/>,<Card/>,<Card/>,<Card/>,]
+let content =[<Card />,<Card/>,<Card/>,<Card/>,]
 ReactDOM.render(
 	content,
 	document.querySelector("#car")
