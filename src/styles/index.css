@@ -14,15 +14,15 @@
     padding: 0px;
 }
 #foot{
-    position: relative;
-   top: 100%;
+    position: absolute;
+    bottom: 0%;
    transform: translateY(120px);
    
 
 }
-@media screen and (min-width:768px){
+@media screen and (max-width:768px){
     #foot{
-        position:absolute;
+        position:relative;
     }
     
 }
